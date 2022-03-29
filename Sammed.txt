@@ -1,1 +1,2 @@
 Sammed vijay biraje
+now changes are from the remote repo are to be reflected in the remote repo
